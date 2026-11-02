@@ -17,4 +17,3 @@
 12. Display Task Status
 13. Performance Report
 0. Exit
-🤝 ContributingContributions are welcome! Feel free to open an issue or submit a pull request for new features such as multi-robot collision avoidance algorithms (A* or CBS), GUI integrations, or persistence logging.📄 LicenseThis project is open-source and available under the MIT License.
