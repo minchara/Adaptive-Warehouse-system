@@ -1,6 +1,4 @@
 🤖 Adaptive Warehouse Coordination System
-
-
 ================================
  ADAPTIVE WAREHOUSE COORDINATION
 ================================
